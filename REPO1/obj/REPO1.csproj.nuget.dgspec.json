@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Настена\\source\\repos\\REPO1\\REPO1\\REPO1.csproj": {}
+    "C:\\Users\\Настена\\source\\repos\\REPO1 високосный год\\REPO1\\REPO1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Настена\\source\\repos\\REPO1\\REPO1\\REPO1.csproj": {
+    "C:\\Users\\Настена\\source\\repos\\REPO1 високосный год\\REPO1\\REPO1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Настена\\source\\repos\\REPO1\\REPO1\\REPO1.csproj",
+        "projectUniqueName": "C:\\Users\\Настена\\source\\repos\\REPO1 високосный год\\REPO1\\REPO1.csproj",
         "projectName": "REPO1",
-        "projectPath": "C:\\Users\\Настена\\source\\repos\\REPO1\\REPO1\\REPO1.csproj",
+        "projectPath": "C:\\Users\\Настена\\source\\repos\\REPO1 високосный год\\REPO1\\REPO1.csproj",
         "packagesPath": "C:\\Users\\Настена\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Настена\\source\\repos\\REPO1\\REPO1\\obj\\",
+        "outputPath": "C:\\Users\\Настена\\source\\repos\\REPO1 високосный год\\REPO1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -9,11 +9,11 @@ class LeapYearChecker
 
         if (year % 4 == 0 && year % 100 != 0 || year % 400 == 0) // &&- и ; ||- или
         {
-            Console.WriteLine(year + "  — високосный год.");
+            Console.WriteLine(year + "  — високосный год ");
         }
         else
         {
-            Console.WriteLine(year + "  - не високосный.");
+            Console.WriteLine(year + "  - не високосный год ");
         }
     }
 }

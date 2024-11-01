@@ -12,3 +12,19 @@ C:\Users\Настена\source\repos\REPO1\REPO1\obj\Debug\net8.0\refint\REPO1.d
 C:\Users\Настена\source\repos\REPO1\REPO1\obj\Debug\net8.0\REPO1.pdb
 C:\Users\Настена\source\repos\REPO1\REPO1\obj\Debug\net8.0\REPO1.genruntimeconfig.cache
 C:\Users\Настена\source\repos\REPO1\REPO1\obj\Debug\net8.0\ref\REPO1.dll
+C:\Users\Настена\source\repos\REPO1\REPO1\obj\Debug\net8.0\REPO1.sourcelink.json
+C:\Users\Настена\source\repos\REPO1 високосный год\REPO1\bin\Debug\net8.0\REPO1.exe
+C:\Users\Настена\source\repos\REPO1 високосный год\REPO1\bin\Debug\net8.0\REPO1.deps.json
+C:\Users\Настена\source\repos\REPO1 високосный год\REPO1\bin\Debug\net8.0\REPO1.runtimeconfig.json
+C:\Users\Настена\source\repos\REPO1 високосный год\REPO1\bin\Debug\net8.0\REPO1.dll
+C:\Users\Настена\source\repos\REPO1 високосный год\REPO1\bin\Debug\net8.0\REPO1.pdb
+C:\Users\Настена\source\repos\REPO1 високосный год\REPO1\obj\Debug\net8.0\REPO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Настена\source\repos\REPO1 високосный год\REPO1\obj\Debug\net8.0\REPO1.AssemblyInfoInputs.cache
+C:\Users\Настена\source\repos\REPO1 високосный год\REPO1\obj\Debug\net8.0\REPO1.AssemblyInfo.cs
+C:\Users\Настена\source\repos\REPO1 високосный год\REPO1\obj\Debug\net8.0\REPO1.csproj.CoreCompileInputs.cache
+C:\Users\Настена\source\repos\REPO1 високосный год\REPO1\obj\Debug\net8.0\REPO1.sourcelink.json
+C:\Users\Настена\source\repos\REPO1 високосный год\REPO1\obj\Debug\net8.0\REPO1.dll
+C:\Users\Настена\source\repos\REPO1 високосный год\REPO1\obj\Debug\net8.0\refint\REPO1.dll
+C:\Users\Настена\source\repos\REPO1 високосный год\REPO1\obj\Debug\net8.0\REPO1.pdb
+C:\Users\Настена\source\repos\REPO1 високосный год\REPO1\obj\Debug\net8.0\REPO1.genruntimeconfig.cache
+C:\Users\Настена\source\repos\REPO1 високосный год\REPO1\obj\Debug\net8.0\ref\REPO1.dll
