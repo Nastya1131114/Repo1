@@ -4,16 +4,16 @@ class LeapYearChecker
 {
     static void Main()
     {
-        Console.Write("Введите год: ");
+        Console.Write("Введите год, который вас интересует: ");
         int year = Convert.ToInt32(Console.ReadLine());
 
         if (year % 4 == 0 && year % 100 != 0 || year % 400 == 0) // &&- и ; ||- или
         {
-            Console.WriteLine(year + "  — високосный год ");
+            Console.WriteLine(year + "  — этот год високосный ");
         }
         else
         {
-            Console.WriteLine(year + "  - не високосный год ");
+            Console.WriteLine(year + "  - этот год не високосный ");
         }
     }
 }
